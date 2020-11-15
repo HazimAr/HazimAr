@@ -9,7 +9,7 @@ const readMe = {
     InternFor:"💻 The Esport Company",
     Education:"🏫 in High School",
     workingOn:"Open source projects, Freelance Development",
-    learning:"C++",
+    learning:"dJango",
   },
   technologies:{
       frameworks:["nodeJs", "React", "React Native", "Unity", "UE4", "Firebase"],
