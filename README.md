@@ -9,11 +9,11 @@ const readMe = {
     InternFor:"💻 The Esport Company",
     Education:"🏫 in High School",
     workingOn:"Open source projects, Freelance Development",
-    learning:"dJango",
+    learning:"Machine Learning",
   },
   technologies:{
       frameworks:["nodeJs", "React", "React Native", "Unity", "UE4", "Firebase"],
-      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java"],
+      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java", "Kotlin"],
   },
   Contact:'Hazimarafa80@gmail.com'
 };
