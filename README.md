@@ -13,7 +13,7 @@ const readMe = {
   },
   technologies:{
       frameworks:["nodeJs", "React", "React Native", "Unity", "UE4", "Firebase"],
-      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java", "Kotlin"],
+      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java", "Kotlin", "C", "Assembly"],
   },
   Contact:'Hazimarafa80@gmail.com'
 };
