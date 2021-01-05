@@ -1,7 +1,5 @@
 ```js
 const readMe = {
-  portfolio: "https://hazar.vercel.app/",
-  
   greetings: "👋 Stranger",
   iAm: "An Aspiring Developer",
   iDo: "Full Stack Web Development, Game Development",
