@@ -7,7 +7,7 @@ const readMe = {
   iDo: "Full Stack Web Development, Game Development",
   currently:{
     InternFor:"💻 The Esport Company",
-    Education:"🏫 in High School",
+    Education:"🏫 in College",
     workingOn:"Open source projects, Freelance Development",
     learning:"Machine Learning",
   },
