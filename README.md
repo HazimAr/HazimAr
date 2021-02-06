@@ -4,14 +4,14 @@ const readMe = {
   iAm: "An Aspiring Developer",
   iDo: "Full Stack Web Development, Game Development",
   currently:{
-    InternFor:"💻 The Esport Company",
+    workingAt:"💻 WebDefyer",
     Education:"🏫 in College",
     workingOn:"Open source projects, Freelance Development",
-    learning:"Machine Learning",
+    learning:"Back-end O-Auth",
   },
   technologies:{
-      frameworks:["nodeJs", "React", "React Native", "Unity", "UE4", "Firebase"],
-      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java", "Kotlin", "C", "Assembly", "Lua", "Typescript"],
+      frameworks:["nodeJs", "ReactJS", "React Native", "Unity", "UE4", "NextJS"],
+      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java", "Typescript"],
   },
   Contact:'Hazimarafa80@gmail.com'
 };
