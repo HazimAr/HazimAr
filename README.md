@@ -11,7 +11,7 @@ const readMe = {
   },
   technologies:{
       frameworks:["nodeJs", "ReactJS", "React Native", "Unity", "UE4", "NextJS"],
-      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java", "Typescript"],
+      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java", "Typescript", "Swift", "Kotlin"],
   },
   Contact:'Hazimarafa80@gmail.com'
 };
