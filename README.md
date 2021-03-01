@@ -1,13 +1,13 @@
 ```js
 const readMe = {
   greetings: "👋 Stranger",
-  iAm: "An Aspiring Developer",
-  iDo: "Full Stack Web Development, Game Development",
+  iAm: "A Professional Developer",
+  iDo: "Full Stack Web Development, Game Development, Discord API",
   currently:{
     workingAt:"💻 WebDefyer",
     Education:"🏫 in College",
-    workingOn:"Open source projects, Freelance Development",
-    learning:"Back-end O-Auth",
+    workingOn:"Open source projects, Freelance Development, Personal Projects",
+    learning:"Machine Learning",
   },
   technologies:{
       frameworks:["nodeJs", "ReactJS", "React Native", "Unity", "UE4", "NextJS"],
