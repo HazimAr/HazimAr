@@ -10,8 +10,8 @@ const readMe = {
     learning :"Machine Learning",
   },
   technologies:{
-      frameworks: ["nodeJs", "ReactJS", "React Native", "Electron", "NextJS"],
-      languages: ["Javascript", "Python", "HTML", "CSS", "C#", "C++", "Java", "Typescript", "Swift", "Kotlin"],
+      frameworks: ["NextJS", "ReactJS", "Fiber(Backend Framework)", "Electron", "Django", "nodeJs", "React Native",] ,
+      languages: ["Typescript", "Javascript", "HTML", "SCSS/CSS", ""],
   },
   Contact:'Hazimarafa80@gmail.com'
 };
