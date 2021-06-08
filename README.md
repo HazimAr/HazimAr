@@ -1,23 +1,3 @@
-/*
-```js
-const readMe = {
-  greetings: "👋 Stranger",
-  iAm: "A Professional Developer",
-  iDo: "Full Stack Web Development, React Native, Electron Desktop Apps, and Discord Bots",
-  currently:{
-    workingAt: "💻 Periodize (www.periodize.org Work in progress)",
-    Education: "🏫 in College",
-    workingOn: "Open source projects, Freelance Development, Personal Projects",
-    learning : "Rust Progamming language",
-  },
-  technologies:{
-      frameworks: ["NextJS", "ReactJS", "Fiber(Backend Framework)", "Electron", "Django", "nodeJs", "React Native",] ,
-      languages: ["Go", "Typescript", "Python", "Javascript", "HTML", "SCSS/CSS",  "C/C++", "C#", "Java"],
-  },
-  Contact:'Hazimarafa80@gmail.com'
-};
-```
-*/
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/hazim-arafa-a439aa205/">
@@ -48,7 +28,7 @@ My name is Hazim and I"m a Software Engineer who is passionate about building te
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HazimAr&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HazimAr&show_icons=true&locale=en&layout=compact&theme=radicalcount_private=true" alt="vaulstein" /></p>
 
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazimar&theme=radical" alt="hazimar" /></p>
