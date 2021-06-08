@@ -24,7 +24,7 @@ const readMe = {
   <img align="left" alt="Arunsridher's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=arunsridher)
+![](https://visitor-badge.glitch.me/badge?page_id=hazimar)
 
 My name is Hazim and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
 
@@ -48,7 +48,7 @@ My name is Hazim and I"m a Software Engineer who is passionate about building te
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=HazimAr&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HazimAr&show_icons=true&locale=en&layout=compact&theme=radical" alt="vaulstein" /></p>
 
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazimar&theme=radical" alt="hazimar" /></p>
