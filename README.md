@@ -19,6 +19,9 @@ My name is Hazim and I'm a Software Engineer who is passionate about building te
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 <br />
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![GoLang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=golang)&nbsp;
+<br />
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <br />
