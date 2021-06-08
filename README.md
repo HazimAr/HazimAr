@@ -2,7 +2,7 @@
 const readMe = {
   greetings: "👋 Stranger",
   iAm: "A Professional Developer",
-  iDo: "Full Stack Web Development, Electron Desktop Apps, and Discord Bots",
+  iDo: "Full Stack Web Development, React Native, Electron Desktop Apps, and Discord Bots",
   currently:{
     workingAt: "💻 Periodize (www.periodize.org Work in progress)",
     Education: "🏫 in College",
