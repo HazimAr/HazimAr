@@ -15,6 +15,7 @@ My name is Hazim and I'm a Software Engineer who is passionate about building te
 ![ChakraUI](https://img.shields.io/badge/-ChakraUI-05122A?style=flat)
 <br />
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat&logo=next)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node)&nbsp;
