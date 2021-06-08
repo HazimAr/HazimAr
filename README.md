@@ -17,7 +17,7 @@ My name is Hazim and I'm a Software Engineer who is passionate about building te
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJs](https://img.shields.io/badge/-NextJs-05122A?style=flat)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=nodejs)&nbsp;
 <br />
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![GoLang](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
