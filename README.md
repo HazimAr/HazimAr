@@ -11,7 +11,7 @@ const readMe = {
   },
   technologies:{
       frameworks: ["NextJS", "ReactJS", "Fiber(Backend Framework)", "Electron", "Django", "nodeJs", "React Native",] ,
-      languages: ["Go", "Typescript", "Javascript", "HTML", "SCSS/CSS", "Python", "C/C++", "C#", "Java"],
+      languages: ["Go", "Typescript", "Python", "Javascript", "HTML", "SCSS/CSS",  "C/C++", "C#", "Java"],
   },
   Contact:'Hazimarafa80@gmail.com'
 };
