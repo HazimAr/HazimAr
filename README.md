@@ -7,7 +7,7 @@ const readMe = {
     workingAt: "💻 Periodize (www.periodize.org Work in progress)",
     Education: "🏫 in College",
     workingOn: "Open source projects, Freelance Development, Personal Projects",
-    learning :"Rust Progamming language",
+    learning : "Rust Progamming language",
   },
   technologies:{
       frameworks: ["NextJS", "ReactJS", "Fiber(Backend Framework)", "Electron", "Django", "nodeJs", "React Native",] ,
