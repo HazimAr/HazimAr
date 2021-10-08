@@ -6,7 +6,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hazimar)
 
-My name is Hazim and I'm a Fullstack Engineer who is passionate about building tech, teaching and learning new technologies 
+My name is Hazim and I'm a Fullstack Engineer who is passionate about building tech, teaching and learning new technologies
+
+I teach coding to beginnners over at <a href="https://programming.schoolsimplified.org">programming simplified</a>
 
 ### 🛠 &nbsp;Tech Stack
 
