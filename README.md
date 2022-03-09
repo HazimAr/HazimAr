@@ -8,8 +8,6 @@
 
 My name is Hazim and I'm a Fullstack Engineer who is passionate about building tech, teaching and learning new technologies
 
-I teach coding to beginnners over at <a href="https://programmingsimplified.org/discord" target="_blank" rel="noopener noreferrer">programming simplified</a>
-
 ### 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
