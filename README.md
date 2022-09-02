@@ -36,3 +36,4 @@ My name is Hazim Arafa and I'm a Fullstack Engineer who is passionate about buil
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hazimar&theme=radical" alt="hazimar" /></p>
 
+![](https://hit.yhype.me/github/profile?user_id=64544952)
